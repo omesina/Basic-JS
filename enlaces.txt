@@ -1,0 +1,4 @@
+Para probar los códigos puedes utilizar la siguiente herramienta
+
+help to show jsconsole commands
+https://jsconsole.com/
